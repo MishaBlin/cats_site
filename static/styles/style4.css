@@ -1,0 +1,30 @@
+body {
+    background-image: url(../img/bg3.jpg);
+    background-size: cover;
+    }
+
+.main_block {
+    background-color: rgba(255, 255, 255, 0.95);
+    margin: 5% auto auto;
+    width: 60%;
+    height: auto;
+    font-family: 'Cambria', sans-serif;
+    border-radius: 15px;
+    padding: 5px;
+    }
+
+h2 {
+    color: #0125c9;
+    text-align: center;
+}
+
+
+p {
+    text-align: right;
+    margin: 20px;
+    font-size: 15pt;
+}
+
+a {
+    text-decoration: none;
+}

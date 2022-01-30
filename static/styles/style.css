@@ -1,0 +1,30 @@
+body {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    }
+
+.main_block {
+    background-color: rgba(255, 255, 255, 0.95);
+    margin: 5% auto auto;
+    width: 60%;
+    height: auto;
+    font-family: 'Century Gothic', sans-serif;
+    border-radius: 15px;
+    padding: 5px;
+    }
+
+h1 {
+    color: #6600FF;
+    text-align: center;
+}
+
+
+p {
+    text-align: justify;
+    margin: 20px;
+    font-size: 15pt;
+}
+
+a {
+    text-decoration: none;
+}
